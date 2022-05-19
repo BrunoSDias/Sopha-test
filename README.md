@@ -51,7 +51,7 @@ Não é necessário hospedar a aplicação.
 > * Rails versão 5.1.7.
 > ## Instruções de Build
 > ### Comandos
-> ` bundle install` - Instalá as gems utilizadas no projeto;
-> ` rails db:create` - Para gerar a base de dados dentro do projeto;
-> ` rails db:migrate` - Para migrar as tabelas do projeto para dentro do banco de dados;
+> ` bundle install` - Instalá as gems utilizadas no projeto;<br>
+> ` rails db:create` - Para gerar a base de dados dentro do projeto;<br>
+> ` rails db:migrate` - Para migrar as tabelas do projeto para dentro do banco de dados;<br>
 > ` rails db:seed ` - Para carregar os dados em base;
