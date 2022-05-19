@@ -13,7 +13,7 @@ Não é necessário hospedar a aplicação.
 -  ReactJS
 -  SQL
 
-<b> Conhecimentos adicionais</b>
+<b> Conhecimentos plus (que podem auxiliar na avaliação)</b>
 - Material UI
 - AWS (S3, EC2, RDS, EB)
 
@@ -35,7 +35,7 @@ Não é necessário hospedar a aplicação.
 - Página de login
 - Área logada (Pode ser apenas uma página em branco, com, por exemplo, a mensagem "Bem vindo {nome_do_cliente}" para sabermos se o login foi um sucesso)
 - Botão de remoção do cliente na index
-- Testes Unitários da aplicação Rails utilizando mini test (https://guides.rubyonrails.org/testing.html#rails-meets-minitest)
+- Testes Unitários da aplicação Rails utilizando MiniTest (https://guides.rubyonrails.org/testing.html#rails-meets-minitest)
 
 ## Opcionais (que podem auxiliar na avaliação)
 - Utilizar MUI (https://mui.com/pt/) para a aplicação ReactJS
