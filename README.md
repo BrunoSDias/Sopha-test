@@ -14,7 +14,7 @@ Não é necessário hospedar a aplicação.
 -  SQL
 
 <b> Conhecimentos plus (que podem auxiliar na avaliação)</b>
-- Material UI
+- MUI
 - AWS (S3, EC2, RDS, EB)
 
 <b>Solução</b>
