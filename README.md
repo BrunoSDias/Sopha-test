@@ -2,15 +2,17 @@
 
 ## Desafio
 
-Criar CRUD de cadastro de cliente em ReactJS, utilizando aplicação Ruby on Rails como API, com base de dados SQL.<br>
+Criar CRUD de cadastro de cliente em ReactJS, utilizando aplicação Ruby on Rails como API.<br>
+Deve ser utilizada uma base de dados relacional. <br>
 Não é necessário hospedar a aplicação.
 
 <b> Conhecimentos necessários</b>
 - Ruby
 - Ruby on Rails
 - JS
--  ReactJS
--  SQL
+- ReactJS
+- SQL
+- Git
 
 <b> Conhecimentos plus (que podem auxiliar na avaliação)</b>
 - MUI
