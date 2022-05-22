@@ -2,8 +2,7 @@
 
 ## Desafio
 
-Criar CRUD de cadastro de cliente e área logada em ReactJS, utilizando aplicação Ruby on Rails como API.<br>
-O processo de autenticação pode ser feita manualmente ou utilizando alguma gem pública.<br>
+Criar CRUD de cadastro de cliente em ReactJS, utilizando aplicação Ruby on Rails como API, com base de dados SQL.<br>
 Não é necessário hospedar a aplicação.
 
 <b> Conhecimentos necessários</b>
@@ -32,15 +31,12 @@ Não é necessário hospedar a aplicação.
 - Pagina para cadastro do cliente (new)
 - Pagina para edição dos dados do cliente (edit)
 - Página de listagem dos clientes (index)
-- Página de login
-- Área logada (Pode ser apenas uma página em branco, com, por exemplo, a mensagem "Bem vindo {nome_do_cliente}" para sabermos se o login foi um sucesso)
 - Botão de remoção do cliente na index
 - Testes Unitários da aplicação Rails utilizando MiniTest (https://guides.rubyonrails.org/testing.html#rails-meets-minitest)
 
 ## Opcionais (que podem auxiliar na avaliação)
 - Utilizar MUI (https://mui.com/pt/) para a aplicação ReactJS
 - Construção da aplicação ReactJS utilizando componentes funcionais
-
 
 ## Exemplo de README
 
